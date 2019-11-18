@@ -7,7 +7,7 @@ Organizzazione del repo:
 #+BEGIN_EXAMPLE
 .
 ├── <data>
-│   ├── incontro.org
+│   ├── README.org
 │   └── ... eventuali file tipo soluzioni a problemi visti
 ├── README.org
 └── presenze.org
