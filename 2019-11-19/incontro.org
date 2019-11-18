@@ -1,0 +1,10 @@
+* Sfide di programmazione
+  :PROPERTIES:
+  :DATE:     2019-11-19
+  :ROOM:     Laboratorio Ciberfisico
+  :END:
+  
+Vediamo i due task delle ITACP/Selezione SWERC PoliMI:
+- https://training.olinfo.it/#/task/unimi_race
+- https://training.olinfo.it/#/task/unimi_balance
+  

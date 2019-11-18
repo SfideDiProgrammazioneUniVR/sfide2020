@@ -1,0 +1,7 @@
+* Presenze Sfide di Programmazione 2019/2020
+
+| Nome Cognome     | 2019-10-29 | 2019-11-19 |
+|------------------+------------+------------|
+| Alessandro Righi | X          |          X |
+| Andrea Cracco    | X          |            |
+|                  |            |            |

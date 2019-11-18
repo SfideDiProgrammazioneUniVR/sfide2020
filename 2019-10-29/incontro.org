@@ -1,0 +1,7 @@
+* Sfide di programmazione
+  :PROPERTIES:
+  :DATE:     2019-10-29
+  :ROOM:     Laboratorio Ciberfisico
+  :END:
+
+Presentazione di Sfide
