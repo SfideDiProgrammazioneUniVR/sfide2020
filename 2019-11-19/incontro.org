@@ -4,7 +4,7 @@
   :ROOM:     Laboratorio Ciberfisico
   :END:
   
-Vediamo i due task delle ITACP/Selezione SWERC PoliMI:
+Vediamo i due task delle ITACP/Selezione SWERC UniMI:
 - https://training.olinfo.it/#/task/unimi_race
 - https://training.olinfo.it/#/task/unimi_balance
   
