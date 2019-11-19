@@ -1,7 +1,24 @@
 * Presenze Sfide di Programmazione 2019/2020
 
-| Nome Cognome     | 2019-10-29 | 2019-11-19 |
-|------------------+------------+------------|
-| Alessandro Righi | X          |          X |
-| Andrea Cracco    | X          |            |
-|                  |            |            |
+| Nome Cognome       | 2019-10-29 | 2019-11-19 |
+|--------------------+------------+------------|
+| Alessandro Righi   | X          | X          |
+| Andrea Cracco      | X          |            |
+| Francesco Lumpp    | X          | X          |
+| Giovanni Masotto   | X          | X          |
+| Sterfano Brunone   | X          | X          |
+| Ballarotto Matteo  | X          | X          |
+| Nereo Sorio        | X          | X          |
+| Michele Penzo      | X          | X          |
+| Antonio Pitzus     | X          | X          |
+| Alessandro Busatto | X          | X          |
+| Alberto Tessari    | X          | X          |
+| Marco Crosara      | X          | X          |
+| Xu Sunyi           | X          | X          |
+| Andrea Benini      | X          | X          |
+| Amedeo Zampieri    | X          | X          |
+| Federico Moschin   | X          | X          |
+| Filippo Mantovan   | X          | X          |
+| Enrico Lonardi     | X          | X          |
+| Cristiano Di Bari  | X          | X          |
+|                    |            |            |
