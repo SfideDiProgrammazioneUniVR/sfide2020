@@ -1,0 +1,9 @@
+* Sfide di programmazione
+  :PROPERTIES:
+  :DATE:     2020-01-14
+  :ROOM:     Auletta atrio CV1
+  :END:
+
+Vediamo un problema che si risolve usando Dijkstra:
+- https://open.kattis.com/problems/shortestpath1
+  
