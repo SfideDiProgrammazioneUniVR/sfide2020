@@ -1,0 +1,8 @@
+* Sfide di programmazione
+  :PROPERTIES:
+  :DATE:     2020-01-21
+  :ROOM:     Auletta atrio CV1
+  :END:
+
+Vediamo un problema che si risolve usando Fenwick Trees:
+- https://open.kattis.com/problems/supercomputer
