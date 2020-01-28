@@ -1,0 +1,8 @@
+* Sfide di programmazione
+  :PROPERTIES:
+  :DATE:     2020-01-28
+  :ROOM:     Auletta atrio CV1
+  :END:
+
+Vediamo un problema che si risolve usando un Minimum Spanning Tree:
+- https://open.kattis.com/problems/islandhopping
