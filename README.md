@@ -1,14 +1,14 @@
-* Sfide di Programmazione 2019/2020
+# Sfide di Programmazione 2019/2020
 
 In questo repository verranno man mano pubblicati i resoconti, il più 
 possibile accurati, di quello che verrà trattato nei vari incontri. 
 
 Organizzazione del repo:
-#+BEGIN_EXAMPLE
+```
 .
 ├── <data>
-│   ├── README.org
+│   ├── README.md
 │   └── ... eventuali file tipo soluzioni a problemi visti
-├── README.org
-└── presenze.org
-#+END_EXAMPLE
+├── README.md
+└── presenze.md
+```
