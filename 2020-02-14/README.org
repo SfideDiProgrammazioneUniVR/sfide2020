@@ -1,0 +1,8 @@
+* Sfide di programmazione
+  :PROPERTIES:
+  :DATE:     2020-02-14
+  :ROOM:     Aula M
+  :END:
+
+Vediamo la soluzione di un problema dell'esame di Algoritmi:
+- https://rizzi.olinfo.it/algo-simula-prove/tasks/2019-09-04-tree_split_out/description
